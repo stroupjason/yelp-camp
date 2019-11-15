@@ -1,0 +1,1 @@
+//this is where all the data in a json format would be hardcoded if you don't have a db connected
